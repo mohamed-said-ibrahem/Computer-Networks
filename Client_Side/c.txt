@@ -1,0 +1,2 @@
+POST client.jpg 127.0.0.1
+GET server.jpg 127.0.0.1
